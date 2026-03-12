@@ -4,6 +4,6 @@
 #
 lintrunner-adapters>=0.8.0
 # BLACK
-black==23.3.0
+black==26.3.1
 # CLANGFORMAT
 clang-format==16.0.1
